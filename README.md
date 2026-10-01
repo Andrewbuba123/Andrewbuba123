@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Andrew! 👨‍💻
 
-<!--
-**Andrewbuba123/Andrewbuba123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software Engineering Student at [Belarusian National Technical University (BNTU)](https://bntu.by/en)* 🎓
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐱 A little more about me...
+
+```json
+{
+  "pronouns": "he" | "him",
+  "languages": ["JavaScript (ES6+)", "HTML5", "CSS3"],
+  "technologies": ["BEM Methodology", "CSS Grid", "Flexbox", "Fetch API", "REST APIs"],
+  "architecture": ["Modular JS (ES Modules)", "Clean Code", "Responsive Web Design"],
+  "tools": ["Git", "GitHub", "VS Code"],
+  "currentFocus": "Deepening vanilla JavaScript knowledge and building responsive web applications"
+}
