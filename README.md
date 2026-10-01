@@ -22,9 +22,9 @@ Currently looking for a **frontend internship or junior position**.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Task Trecker](https://github.com/Andrewbuba123/Task-trecker) | Task manager with authentication, task ownership, deadlines and prices | TypeScript |
+| [Task Trecker](https://github.com/Andrewbuba123/Task-trecker) | Task manager with authentication, task ownership, deadlines and prices | TS, React , CSS |
 | [Book Catalog](https://github.com/Andrewbuba123/Book-catalog) | Responsive book search with favorites, powered by Open Library API · [Live demo](https://andrewbuba123.github.io/Book-Catalog/) | Vanilla JS, BEM |
-| [Trainee Assignment 2026](https://github.com/Andrewbuba123/frontend-trainee-assignment-2026) | Full-stack solution of a frontend internship test task | TypeScript, client + server |
+| [Trainee Assignment 2026](https://github.com/Andrewbuba123/frontend-trainee-assignment-2026) | Full-stack solution of a frontend internship test task | TS, client + server |
 
 ### 📫 Contact
 
